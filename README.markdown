@@ -18,4 +18,4 @@ Contacto
 --------
 
 La página de referencia del tutorial se encuentra en [AguasNegras](http://www.aguasnegras.es/blog/?p=201).
-Para cualquier duda puedes contactarme en [agustinventura](agustinventura@gmail.com)
+Para cualquier duda puedes contactarme en [agustinventura](agustinventura@gmail.com).
