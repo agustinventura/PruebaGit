@@ -10,13 +10,10 @@ Instalación
 
 Para la correcta instalación y funcionamiento del proyecto hará falta al menos:
 
-*Git
-
-*Eclipse
-
-*Plugin EGit para Eclipse
-
-*Una cuenta en GitHub
+*	Git
+*	Eclipse
+*	Plugin EGit para Eclipse
+*	Una cuenta en GitHub
 
 Contacto
 --------
